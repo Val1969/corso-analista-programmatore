@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 anche questo file è in controllo di versione di nuovo
+=======
+anche questo file è in controllo di versione
+
+ora proviamo a cambiare anche il secondo file
+
+e poi vediamo se arrivano i cambiamenti anche da qui
+>>>>>>> 829343f33ac7fd85cdc63e10b327ef85de9d257a
