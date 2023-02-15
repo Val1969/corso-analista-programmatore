@@ -1,0 +1,2 @@
+questo file non è in controllo di versione
+ora modifico questo file, vediamo cosa succede
