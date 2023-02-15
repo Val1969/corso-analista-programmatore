@@ -3,10 +3,4 @@ aggiungo una riga in mezzo ad altre
 questa riga fa parte di una revisione
 ora facciamo una cosa seria, modifichiamo due file contemporaneamente
 Vediamo cosa succede se patrocchiamo un po'
-<<<<<<< HEAD
-proviamo
-=======
-
-pastrocchio un poco anche oggi
-e aggiungo un'altra riga
->>>>>>> 829343f33ac7fd85cdc63e10b327ef85de9d257a
+questo file esiste solo nel branc
